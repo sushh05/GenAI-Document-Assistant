@@ -11,7 +11,7 @@ This project is a Streamlit-based web application that helps users interact with
 - **Question Answering**: Allows users to ask specific questions about the document content and receive answers based solely on the provided text.
 - **Memory Handling**: Supports follow-up questions that refer to prior interactions to maintain context.
 
-•
+
 - **Answer Highlighting**: Displays the specific snippet from the source document that supports each answer.
 
 
